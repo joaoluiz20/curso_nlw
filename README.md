@@ -3,7 +3,7 @@
 > Trilha Explorer
 Projeto construido no Evento Next Level Weak Rocketseat
 
-[Clique Aqui -->](https://cursonlw.vercel.app/)
+[Clique Aqui para ver mais](https://cursonlw.vercel.app/)
 
 ## Tecnologias
 -HTML
