@@ -3,7 +3,7 @@
 > Trilha Explorer
 Projeto construido no Evento Next Level Weak Rocketseat
 
- [Clique aki para acessar] (https://joaoluiz20.github.io/nlw)
+(https://joaoluiz20.github.io/nlw)
 
 ## Tecnologias
 -HTML
